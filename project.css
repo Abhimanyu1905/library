@@ -1,0 +1,159 @@
+.hehe{
+    float:right;
+    clip-path: circle(50.0% at 50% 50%);
+}
+nav{
+    background-color: rgba(182, 162, 125, 0.215);
+    overflow:hidden;
+    
+}
+nav a:hover{
+    color:purple;
+}
+nav a{
+    text-decoration: none;
+    font-size: 25px;
+    padding: 45px;
+    text-align: center;
+    float: left;
+    color: rgba(8, 7, 7, 0.959);
+}
+.first{
+    position:relative;
+    bottom: -5cap;
+    margin-left:10%;
+    padding-top: 50px;
+    padding-bottom: 0;
+    margin-bottom: 0;
+}
+.hehe2{
+    position:relative;
+    margin-left:5%;
+    bottom: -10cap;
+}
+.sec{
+    position:relative;
+    padding: 2px;
+    top: -150px;
+    left: -8cap;
+    float: right;
+    height: 32cap;
+    width:17%;
+    border: black 5px solid;
+    border-radius: 2%;
+}
+.third{
+    position:relative;
+    left: -10cap;
+    padding: 2px;
+    top: -165px;
+    float: right;
+    height: 19%;
+    width:25cap;
+    border: black 5px solid;
+    border-radius: 2%;
+}
+.fourth{
+    position:relative;
+    padding: 2px;
+    top: -120px;
+    right: -17cap;
+    float: right;
+    border: black 5px solid;
+    border-radius: 2%;
+    width: 30cap;
+}
+.sixth{
+    position:relative;
+    background-color: rgba(135, 24, 44, 0.818);
+    background-attachment: scroll;
+}
+.header{
+    position:relative;
+    margin: 10%;
+    color:white;
+    size:60px;
+}
+.p{
+    position:relative;
+    color:white;
+    margin-left:5%;
+    top: -13cap;
+    right:-6cap;
+}
+.seventh{
+    position:relative;
+    float:right;
+    height:43cap;
+    width:40%;
+    top:-45cap;
+}
+input[type="submit"] {
+    position:relative;
+    background-color: #4c61af; /* blue background color */
+    color: white; /* White text color */
+    border: none; /* No border */
+    padding: 10px 20px; /* Padding around the button text */
+    text-align: center; /* Center-align the text */
+    text-decoration: none; /* Remove underlines from links */
+    display: inline-block; /* Display as a block element */
+    font-size: 16px; /* Font size */
+    border-radius: 4px; /* Rounded corners */
+    cursor: pointer; /* Change cursor on hover */
+    top: -10cap;
+    left: -3cap;
+}
+/* Hover effect */
+input[type="submit"]:hover {
+    background-color: purple; /* purple on hover */
+}
+.eight{
+    background-color: rgba(157, 228, 51, 0.989);
+    background-attachment: scroll;
+}
+.p2{
+    position:relative;
+    color:white;
+    margin-left:5%;
+    top: -13cap;
+    right:-6cap;
+}
+.nine{
+    position:relative;
+    float:right;
+    height:43cap;
+    width:40%;
+    top:-45cap;
+}
+.ten{
+    background-color: rgba(51, 228, 181, 0.988);
+    background-attachment: scroll;
+}
+.eleven{
+    position:relative;
+    float:right;
+    height:43cap;
+    width:40%;
+    top:-45cap;
+}
+.p3{
+    position:relative;
+    color:white;
+    margin-left:5%;
+    top: -13cap;
+    right:-6cap;
+}
+iframe{
+    height:30cap;
+}
+footer {
+    background-color: #333;
+    overflow: hidden;
+}
+footer a {
+    text-decoration: none;
+    padding: 20px;
+    text-align: center;
+    float: left;
+    color: white;
+}
